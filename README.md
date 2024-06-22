@@ -12,4 +12,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diramix&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   ## 💴Boosty
-  [![Boosty](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://boosty.to/diramix) 
+  ![Static Badge](https://img.shields.io/badge/Boosty?style=flat&logo=Boosty&logoColor=orange&link=https%3A%2F%2Fboosty.to%2Fdiramix)
