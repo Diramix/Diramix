@@ -1,11 +1,10 @@
+![banner](https://github.com/Diramix/Diramix/blob/main/assets/banner.png?raw=true)
 # 😊About me:
-* **A bit of an anime guy. A bit of a programmer.**
+🤠 **A bit of an anime guy. A bit of a programmer.**
 
-🎮 **I like to play** `osu!` **and other rhythm games.**
+🎮 **I like to play** [***`osu!`***](https://osu.ppy.sh/) **and other rhythm games.**
 
 🎧 **I listen to** *phonk, rock,* **and** *anime openings* 📻
-
-~~Надо будет баннер для гитхаба сделать...~~
 
 # 🌐Useful links
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ky6bcdy7KA) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCtkXzZp9avFVok2BtB1fWXg) 
