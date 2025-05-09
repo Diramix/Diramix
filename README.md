@@ -19,9 +19,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=Diramix&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💴Donate
- </p>
-<p align="left">
-   <a href="https://boosty.to/diramix">
+# 💴Donate
+</p>
+  <p align="left">
+    <a href="https://boosty.to/diramix">
       <img width="300" alt="ᓚᘏᗢ котик ждёт твоей монетки" src="https://github.com/Diramix/Diramix/blob/main/assets/boosty_button.png?raw=true">
-   </a>
+    </a>
