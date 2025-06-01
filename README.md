@@ -6,6 +6,8 @@
 
 🎧 **I listen to** *phonk, rock,* **and** *anime openings* 📻
 
+[**=>My favorite map in osu! :3<=**](https://www.youtube.com/watch?v=Lqz7M6tLOjA)
+
 # 🌐Useful links
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ky6bcdy7KA) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCtkXzZp9avFVok2BtB1fWXg) 
 
