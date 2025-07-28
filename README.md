@@ -4,7 +4,7 @@
 
 🎮 **I like to play** [***`osu!`***](https://osu.ppy.sh/) **and other rhythm games.**
 
-🎧 **I listen to** *phonk, rock,* **and** *anime openings* 📻
+🎧 **I listen to everything that can be listened to.**
 
 [**=>My favorite map in osu! :3<=**](https://www.youtube.com/watch?v=Lqz7M6tLOjA)
 
