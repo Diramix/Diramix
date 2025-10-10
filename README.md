@@ -1,6 +1,6 @@
 ![banner](https://github.com/Diramix/Diramix/blob/main/assets/banner.png?raw=true)
 # 😊About me:
-🤠 **A bit of an anime guy. A bit of a programmer.**
+🤠 **A bit of a furry-BOY. A bit of a programmer.**
 
 🎮 **I like to play** [***`osu!`***](https://osu.ppy.sh/) **and other rhythm games.**
 
